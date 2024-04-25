@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-    
+   <img src="https://github.com/fisiofaz/AluraMidi/blob/main/images/imagem%20do%20projeto.png">
 </h1>
 
 ## Sobre
